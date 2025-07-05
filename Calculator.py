@@ -11,3 +11,4 @@ elif operation == "^":
     print("Result: " + str(first_number ** second_number))
 else:
     print("Result: " + str(first_number / second_number))
+    
